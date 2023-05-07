@@ -1,4 +1,17 @@
 {
-    "name": "Closca Bottle",
-    "price": 39.90
+    "bottles":[
+        {
+            "name": "Closca Bottle",
+            "price": 39.90
+        },
+        {
+            "name": "AA",
+            "price": 100
+        },
+        {
+            "name": "bb",
+            "price": 200
+        }
+    ]
+    
 }
